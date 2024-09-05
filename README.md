@@ -1,2 +1,2 @@
-Trabalho da Matéria: AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
+Trabalho da Matéria: AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT.
 Este projeto envolve a construção de um modelo de regressão para a concessão de crédito, visando prever o risco associado a essa decisão.
